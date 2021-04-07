@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <div>Made by Annie Tor and Dieter Brehm</div>
+    <div>Made by Dieter Brehm</div>
 	</footer>
 </template>
 

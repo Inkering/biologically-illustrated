@@ -2,21 +2,24 @@
 <div class="artistLists">
 	<div class="artistlist">
 		<div class="artistContainer" v-for="post in artists" :key="post.frontmatter.order">
-		<div class="artistItem">
-			<div class="artistImgContainer">
+			<div class="artistItem">
+				<div class="artistImgContainer">
+					<router-link
+						:to="post.path">
+							<img class="artistImg" :src="post.frontmatter.img" alt="">
+					</router-link>
+					<p class="caption">{{post.frontmatter.caption}} - <a :href="post.frontmatter.link">link</a></p>
+				</div>
+				<div>
 				<router-link
 					:to="post.path">
-						<img class="artistImg" :src="post.frontmatter.img" alt="">
+					<div>
+						<div class="postDisplay"><h2 class="artistName">{{post.title}}</h2></div>
+					</div>
 				</router-link>
-				<p class="caption">{{post.frontmatter.caption}} - <a :href="post.frontmatter.link">link</a></p>
-			</div>
-			<router-link
-				:to="post.path">
-				<div>
-					<div class="postDisplay"><h2 class="artistName">{{post.title}}</h2></div>
+				<p>{{post.frontmatter.excerpt}}</p>
 				</div>
-			</router-link>
-		</div>	
+			</div>	
 		</div>
 	</div>
 </div>

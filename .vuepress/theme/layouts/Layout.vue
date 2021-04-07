@@ -12,6 +12,8 @@
 		<hr>
 		<ArtistList/>
 		<hr>
+		Looking for more? Take a look at <a href="https://climateart.dieterbrehm.com/">Climate Art Survey</a>
+		<br>
 		<Footer/>
 	</div>
 </div>
