@@ -1,2 +1,1 @@
-# biologically-illustrated
-Micro site for biological drawings
+As part of the Intersection of Biology, Art, and Technology, a course at Olin College, I'm starting a new series of pieces centered around biological forms found in nature. This site interleaves illustrations with contextualization and writings on the drafting process and what tools I utilized along the way. Look around, get comfortable!

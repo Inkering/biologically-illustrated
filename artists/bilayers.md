@@ -1,5 +1,5 @@
 ---
-title: "Phospholipid Bilayers"
+title: "Lipid Bilayers"
 layout: PostLayout
 date: 2022-10-16
 order: 1
