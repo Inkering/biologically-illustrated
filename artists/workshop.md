@@ -6,6 +6,6 @@ order: 2
 direction:
 img: "/workshop.jpg"
 caption: "Studio - 2021 - Dieter Brehm"
-link: "dieterbrehm.com"
+link: "https://dieterbrehm.com"
 excerpt: "How I illustrated this series."
 ---

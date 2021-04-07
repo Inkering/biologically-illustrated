@@ -6,6 +6,6 @@ order: 1
 direction:
 img: "/phospholipid-bilayers.jpg"
 caption: "phospholipid bilayers - 2021 - Dieter Brehm"
-link: "dieterbrehm.com"
+link: "https://dieterbrehm.com"
 excerpt: "Look into the world of bilayers, and how cells manage to keep it all together."
 ---
