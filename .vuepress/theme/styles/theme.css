@@ -1,3 +1,14 @@
+@font-face {
+	font-family: 'Comico-Regular';
+	src: url('/fonts/Comico-Regular.woff2') format('woff2'),
+		 url('/fonts/Comico-Regular.woff') format('woff'),
+		 url('/fonts/Comico-Regular.ttf') format('truetype');
+		 font-weight: 400;
+		 font-display: swap;
+		 font-style: normal;
+  }
+  
+
 * {
     transition: font-size 0.3s ease, padding 0.3s ease;
     box-sizing: border-box;
@@ -5,7 +16,8 @@
 
 /* Type */
 h1,h2,h3,h4,h5 {
-		font-family: 'Libre Baskerville', serif;
+		/* font-family: 'Libre Baskerville', serif; */
+		font-family: 'Comico-Regular';
 }
 div, p {
 		font-family: 'Lato', sans-serif;
