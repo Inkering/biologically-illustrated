@@ -2,7 +2,7 @@
   <div>
 		<Nav/>
 		<div class="main">
-			<h1 id="about">Survey of Climate Artists</h1>
+			<h1 id="about">Biologicially Illustrated</h1>
 			<hr>
 			<router-link to="/"><p>Back</p></router-link>
 			<hr>
