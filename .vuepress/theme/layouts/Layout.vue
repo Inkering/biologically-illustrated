@@ -2,7 +2,7 @@
 <div>
 	<Nav/>
 	<div class="main">
-		<h1 id="about">Biologicially Illustrated</h1>
+		<h1 id="about">Placements</h1>
 		<hr>
 		<div class="aboutText">
 		<div class="aboutContent">
