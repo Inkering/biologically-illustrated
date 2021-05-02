@@ -1,7 +1,6 @@
 ---
 title: "The Process"
 layout: PostLayout
-date: 2022-10-16
 order: 1
 direction:
 img: "/workshop.jpg"

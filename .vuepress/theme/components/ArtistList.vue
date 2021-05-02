@@ -1,7 +1,7 @@
 <template>
 <div class="artistLists">
 	<div class="artistlist">
-		<div class="artistContainer" v-for="post in artists" :key="post.frontmatter.order">
+		<div class="artistContainer" v-for="post in artists" :key="post.frontmatter.date">
 			<div class="artistItem">
 				<div class="artistImgContainer">
 					<router-link
@@ -31,11 +31,15 @@ export default {
 	methods: {
 	},
 	computed: {
-			artists: function () {
-				return this.$site.pages
-							.filter(x => x.path.startsWith("/artists/"));
-			},
-	}
+		artists: function () {
+			return this.$site.pages
+							 .filter(x => x.path.startsWith("/artists/"))
+							 .sort(
+								(a, b) => b.frontmatter.order - a.frontmatter.order
+							 );
+		},
+	},
+	
 };
 </script>
 

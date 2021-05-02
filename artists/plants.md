@@ -1,7 +1,6 @@
 ---
 title: "Plant Life"
 layout: PostLayout
-date: 2022-10-16
 order: 4
 img: "/process/7.jpg"
 caption: "Plant Life - 2021 - Dieter Brehm"
