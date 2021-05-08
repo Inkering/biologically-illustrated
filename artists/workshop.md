@@ -6,7 +6,7 @@ direction:
 img: "/workshop.jpg"
 caption: "Studio - 2021 - Dieter Brehm"
 link: "https://dieterbrehm.com"
-excerpt: "How I illustrated this series."
+excerpt: "This series of illustration spans several traditional and digital mediums. It is just as much about the subject matter as the journey it took to get to finished pieces. Take a look at how it came together."
 ---
 
 ![curvy gradient fields sketched in pencil](/process/1.jpg)

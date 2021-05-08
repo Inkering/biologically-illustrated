@@ -15,8 +15,8 @@
 
 /* Type */
 h1,h2,h3,h4,h5 {
-		/* font-family: 'Libre Baskerville', serif; */
-		font-family: 'Comico-Regular';
+		font-family: 'Libre Baskerville', serif;
+		/* font-family: 'Comico-Regular'; */
 }
 div, p {
 		font-family: 'Lato', sans-serif;
