@@ -1,5 +1,5 @@
 ---
-title: "The Process"
+title: "The Tools"
 layout: PostLayout
 order: 0
 direction:
@@ -24,7 +24,7 @@ To that end, I used Raphael SoftAqua brushes as my primary brush brand, specific
 
 ![twsbi 580 alr Prussian blue fountain pen](/process/twsbi.png)
 
-For inking these pieces, I used a TWSBI brand 580 ALR fountain pen with waterproof ink. For the borders I used a fine nib, and for the rest of the line work I used an extra-fine nib.
+For inking these pieces, I used a TWSBI brand 580 ALR fountain pen with waterproof ink. For the borders I used a fine nib, and for the rest of the line work I used an extra-fine nib. Fountain pens strike a nice balance between laying down a consistent line and, well, not being extremely messy. Rapidograph technical pens are a good alternative.
 
 ![holbein watercolour palette](/process/palette.jpg)
 

@@ -1,1 +1,5 @@
-As part of the Intersection of Biology, Art, and Technology, a course at Olin College, I'm starting a new series of pieces centered around biological forms found in nature. This site interleaves illustrations with contextualization and writings on the drafting process and what tools I utilized along the way. Look around, get comfortable!
+## *A study of biology* 
+
+As an exploration in the space between figure and illustration, art and biology, and line and form, I drafted a series of illustrated pieces blending fantastical elements with traditional landscapes in my own unique rendering. After spending a semester learning about biology in The Intersection of Biology, Art, and Technology, I became enamored by the varied layers of abstraction present in how biology is presented to students. There is a fine art in taking a micrograph (a picture by means of a microscope) and translating it into an intuitive figure. An overly abstract translation may result in confusion, but an abruptly specific one means details get lost in the noise. This work examines that tension in relation to scale and color.
+
+This site interleaves illustrations with contextualization and writings on the drafting process and what tools I utilized along the way. Look around, get comfortable!

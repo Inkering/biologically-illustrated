@@ -10,8 +10,6 @@ excerpt: "This series of illustration spans several traditional and digital medi
 ---
 I used a traditional process to create the artworks, with the only exception of scanning and color correction in Photoshop. Layering of pencil, ink, and paint produced densely detailed and vibrant illustrations. I drew the concepts using Mitsubishi Hi-Uni pencils, imagining how they would look once fully painted. At this stage, it was important to imagine the shadows and shades that would show up in the final painting.
 
-![curvy gradient fields sketched in pencil](/process/1.jpg)
-
 ![grassy landscape with curves sketched in pencil](/process/2.jpg)
 
 ![pencil sketch of house with cell nucleus smashed into it](/process/3.jpg)
