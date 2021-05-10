@@ -12,7 +12,10 @@
 		<hr>
 		<ArtistList/>
 		<hr>
-		Looking for more? Take a look at <a href="https://climateart.dieterbrehm.com/">Climate Art Survey</a>
+		Looking for more biologically-minded art? Take a look at <a href="https://climateart.dieterbrehm.com/">Climate Art Survey</a>. The source for textbook figures and biological information is:
+		<br>
+		 Mason, Kenneth A, Jonathan B. Losos, Tod Duncan, Peter H. Raven, and George B. Johnson. <i>Biology</i>. , 2020. Print.
+		<br>
 		<br>
 		<Footer/>
 	</div>
