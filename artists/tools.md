@@ -30,4 +30,4 @@ For inking these pieces, I used a TWSBI brand 580 ALR fountain pen with waterpro
 
 For the paint itself, I used entirely Holbein watercolours. They are light, include a nice mix of transparent and opaque colors, and mix well. The only downside is that this set includes quite a few paints with several pigments, so it is important to be mindful when mixing colors. If too many pigments get mixed together, the resultant mix gets muddy and unpleasant on the page.
 
-*Tool images from Blick, TWSBI* 
+*Tool images from Blick, TWSBI, Jetpens* 
